@@ -1,4 +1,4 @@
-# ConsultIQ 🚀
+# ConsultIQ 
 
 **Your personal AI guide to consulting excellence.**
 
@@ -6,7 +6,7 @@ ConsultIQ is an AI-powered, web-based platform designed for aspiring consultants
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 - **Interactive Dashboard:** Get a quick overview of your progress, key stats, and quick links to all major sections.
 - **Extensive Case Study Library:** Explore a wide range of real-world consulting cases across various industries and difficulty levels.
@@ -16,21 +16,10 @@ ConsultIQ is an AI-powered, web-based platform designed for aspiring consultants
 - **Curated Strategy Videos:** Watch expert-led videos embedded directly in the app to enhance your strategic thinking and communication skills.
 - **On-Demand AI Coach:** Chat with a helpful AI assistant anytime using the floating chat window. Ask questions, get hints, or practice your responses on the fly.
 
----
-
-## 📸 Screenshots
-
-| Dashboard | Case Studies Page |
-| :---: | :---: |
-| ![ConsultIQ Dashboard](https://placehold.co/600x338/fef2f2/b91c1c?text=Dashboard+View) <br> *A clean dashboard welcomes the user with stats and quick links.* | ![ConsultIQ Case Studies Page](https://placehold.co/600x338/fef2f2/b91c1c?text=Case+Studies) <br> *Browse and filter a rich library of case studies.* |
-
-| Practice with AI Coach | My Progress Dashboard |
-| :---: | :---: |
-| ![ConsultIQ Practice Arena with AI Coach](https://placehold.co/600x338/fef2f2/b91c1c?text=Practice+with+AI+Coach) <br> *View a practice problem while interacting with the AI Coach.* | ![ConsultIQ My Progress Page](https://placehold.co/600x338/fef2f2/b91c1c?text=Progress+Tracking) <br> *Track performance with intuitive charts and session history.* |
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 - **[React](https://react.dev/)**: A JavaScript library for building user interfaces.
 - **[TypeScript](https://www.typescriptlang.org/)**: A typed superset of JavaScript that compiles to plain JavaScript.
@@ -41,7 +30,7 @@ ConsultIQ is an AI-powered, web-based platform designed for aspiring consultants
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 To get a local copy up and running, follow these simple steps.
 
@@ -81,7 +70,7 @@ npm install -g live-server
 
 ---
 
-## 📖 Usage
+## Usage
 
 1.  **Dashboard**: Start here for an at-a-glance view of your stats and quick links to other sections.
 2.  **Case Studies / Frameworks**: Browse the libraries to study new materials. Click "View Details" to dive into the rich-text content.
